@@ -42,12 +42,6 @@ jobs:
             context: "./31.2/centos"
           - name: 31.2-ubuntu
             context: "./31.2/ubuntu"
-          - name: 32-alpine
-            context: "./32/alpine"
-          - name: 32-centos
-            context: "./32/centos"
-          - name: 32-ubuntu
-            context: "./32/ubuntu"
           - name: 32.1-alpine
             context: "./32.1/alpine"
           - name: 32.1-centos
