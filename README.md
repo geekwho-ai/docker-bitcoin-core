@@ -1,14 +1,14 @@
-# geekwho-eth/bitcoin-core
+# geekwho-ai/bitcoin-core
 
 This is a project that includes multiple images, each with its own features and usage.
 
 ## Image List
 
-- [Bitcoin Core Docker Image](31.1/README.md)
+- [Bitcoin Core Docker Image](32.1/README.md)
 
 ## Bitcoin Core Docker Image
 
-[![bitcoin_core](https://github.com/geekwho-eth/docker-bitcoin-core/actions/workflows/bitcoin_core.yaml/badge.svg)](https://github.com/geekwho-eth/docker-bitcoin-core/actions/workflows/bitcoin_core.yaml)
+[![bitcoin_core](https://github.com/geekwho-ai/docker-bitcoin-core/actions/workflows/bitcoin_core.yaml/badge.svg)](https://github.com/geekwho-ai/docker-bitcoin-core/actions/workflows/bitcoin_core.yaml)
 [![Docker Pulls](https://img.shields.io/docker/pulls/caijiamx/bitcoin-core.svg)](https://hub.docker.com/r/caijiamx/bitcoin-core)
 [![Docker Stars](https://img.shields.io/docker/stars/caijiamx/bitcoin-core.svg)](https://hub.docker.com/r/caijiamx/bitcoin-core)
 [![Docker Image Size (latest)](https://img.shields.io/docker/image-size/caijiamx/bitcoin-core/latest.svg)](https://hub.docker.com/r/caijiamx/bitcoin-core)
@@ -20,4 +20,4 @@ Highlight:
 2. Run lnd as a non-root user.
 3. Resolve the user home directory permissions issue.
 
-[More Details](31.1/README.md)
+[More Details](32.1/README.md)

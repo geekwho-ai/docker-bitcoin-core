@@ -1,6 +1,6 @@
 
 # Bitcoin Core Docker Image
-[![bitcoin_core](https://github.com/geekwho-eth/docker-bitcoin-core/actions/workflows/bitcoin_core.yaml/badge.svg)](https://github.com/geekwho-eth/docker-bitcoin-core/actions/workflows/bitcoin_core.yaml)
+[![bitcoin_core](https://github.com/geekwho-ai/docker-bitcoin-core/actions/workflows/bitcoin_core.yaml/badge.svg)](https://github.com/geekwho-ai/docker-bitcoin-core/actions/workflows/bitcoin_core.yaml)
 [![Docker Pulls](https://img.shields.io/docker/pulls/caijiamx/bitcoin-core.svg)](https://hub.docker.com/r/caijiamx/bitcoin-core)
 [![Docker Stars](https://img.shields.io/docker/stars/caijiamx/bitcoin-core.svg)](https://hub.docker.com/r/caijiamx/bitcoin-core)
 [![Docker Image Size (latest)](https://img.shields.io/docker/image-size/caijiamx/bitcoin-core/latest.svg)](https://hub.docker.com/r/caijiamx/bitcoin-core)
@@ -9,9 +9,9 @@ This Docker image is built to run Bitcoin Core, leveraging a multi-stage build p
 
 ## Bitcoin Core Tags
 
-- `27.0-ubuntu`, `27-ubuntu`, `latest` ([27/ubuntu/Dockerfile](https://github.com/geekwho-eth/docker-bitcoin-core/blob/master/27/ubuntu/Dockerfile))
-- `27.0-debian`, `27-debian`, `latest` ([27/debian/Dockerfile](https://github.com/geekwho-eth/docker-bitcoin-core/blob/master/27/debian/Dockerfile))
-- `27.0-alpine`, `27-alpine` ([27/alpine/Dockerfile](https://github.com/geekwho-eth/docker-bitcoin-core/blob/master/27/alpine/Dockerfile))
+- `27.0-ubuntu`, `27-ubuntu`, `latest` ([27/ubuntu/Dockerfile](https://github.com/geekwho-ai/docker-bitcoin-core/blob/master/27/ubuntu/Dockerfile))
+- `27.0-debian`, `27-debian`, `latest` ([27/debian/Dockerfile](https://github.com/geekwho-ai/docker-bitcoin-core/blob/master/27/debian/Dockerfile))
+- `27.0-alpine`, `27-alpine` ([27/alpine/Dockerfile](https://github.com/geekwho-ai/docker-bitcoin-core/blob/master/27/alpine/Dockerfile))
 
 Origin README.md pls see [ruimarinho/docker-bitcoin-core](https://github.com/ruimarinho/docker-bitcoin-core/blob/master/README.md)
 

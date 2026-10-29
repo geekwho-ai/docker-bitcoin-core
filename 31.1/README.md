@@ -1,6 +1,6 @@
 
 # Bitcoin Core Docker Image
-[![bitcoin_core](https://github.com/geekwho-eth/docker-bitcoin-core/actions/workflows/bitcoin_core.yaml/badge.svg)](https://github.com/geekwho-eth/docker-bitcoin-core/actions/workflows/bitcoin_core.yaml)
+[![bitcoin_core](https://github.com/geekwho-ai/docker-bitcoin-core/actions/workflows/bitcoin_core.yaml/badge.svg)](https://github.com/geekwho-ai/docker-bitcoin-core/actions/workflows/bitcoin_core.yaml)
 [![Docker Pulls](https://img.shields.io/docker/pulls/caijiamx/bitcoin-core.svg)](https://hub.docker.com/r/caijiamx/bitcoin-core)
 [![Docker Stars](https://img.shields.io/docker/stars/caijiamx/bitcoin-core.svg)](https://hub.docker.com/r/caijiamx/bitcoin-core)
 [![Docker Image Size (latest)](https://img.shields.io/docker/image-size/caijiamx/bitcoin-core/latest.svg)](https://hub.docker.com/r/caijiamx/bitcoin-core)
@@ -9,9 +9,9 @@ This Docker image is built to run Bitcoin Core, leveraging a multi-stage build p
 
 ## Bitcoin Core Tags
 
-- `31.1-ubuntu` ([31.1/ubuntu/Dockerfile](https://github.com/geekwho-eth/docker-bitcoin-core/blob/master/31.1/ubuntu/Dockerfile))
-- `31.1-centos` ([31.1/centos/Dockerfile](https://github.com/geekwho-eth/docker-bitcoin-core/blob/master/31.1/centos/Dockerfile))
-- `31.1-alpine` , `latest` ([31.1/alpine/Dockerfile](https://github.com/geekwho-eth/docker-bitcoin-core/blob/master/31.1/alpine/Dockerfile))
+- `31.1-ubuntu` ([31.1/ubuntu/Dockerfile](https://github.com/geekwho-ai/docker-bitcoin-core/blob/master/31.1/ubuntu/Dockerfile))
+- `31.1-centos` ([31.1/centos/Dockerfile](https://github.com/geekwho-ai/docker-bitcoin-core/blob/master/31.1/centos/Dockerfile))
+- `31.1-alpine` , `latest` ([31.1/alpine/Dockerfile](https://github.com/geekwho-ai/docker-bitcoin-core/blob/master/31.1/alpine/Dockerfile))
 
 Origin README.md pls see [ruimarinho/docker-bitcoin-core](https://github.com/ruimarinho/docker-bitcoin-core/blob/master/README.md)
 
