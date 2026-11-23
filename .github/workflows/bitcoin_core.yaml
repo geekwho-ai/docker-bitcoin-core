@@ -31,18 +31,18 @@ jobs:
             context: "./29.5/debian"
           - name: 29.5-ubuntu
             context: "./29.5/ubuntu"
-          - name: 30.4-alpine
-            context: "./30.4/alpine"
-          - name: 30.4-centos
-            context: "./30.4/centos"
-          - name: 30.4-ubuntu
-            context: "./30.4/ubuntu"
-          - name: 31.2-alpine
-            context: "./31.2/alpine"
-          - name: 31.2-centos
-            context: "./31.2/centos"
-          - name: 31.2-ubuntu
-            context: "./31.2/ubuntu"
+          - name: 30.5-alpine
+            context: "./30.5/alpine"
+          - name: 30.5-centos
+            context: "./30.5/centos"
+          - name: 30.5-ubuntu
+            context: "./30.5/ubuntu"
+          - name: 31.3-alpine
+            context: "./31.3/alpine"
+          - name: 31.3-centos
+            context: "./31.3/centos"
+          - name: 31.3-ubuntu
+            context: "./31.3/ubuntu"
           - name: 32.1-alpine
             context: "./32.1/alpine"
           - name: 32.1-centos
